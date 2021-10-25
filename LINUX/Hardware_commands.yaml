@@ -111,6 +111,8 @@ history: displays the recent executed commands.
          - by default it displays 1000 commands
              1001
         bash : most advanced shell - history
+ git config --global user.email "info@liontechpros.com"
+  git config --global user.name "Elvis Nketi"
 
 ping: sends a signal / echo request to a network host
      #ping google.com
